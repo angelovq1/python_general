@@ -18,7 +18,7 @@ import numpy as np
 sims = 10000
 
 # Which team are you interested in?
-pickedTeam = "England"
+pickedTeam = "Colombia"
 
 # Define some objects to hold the team and group information
 class team():
