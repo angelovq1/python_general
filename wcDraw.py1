@@ -4,7 +4,7 @@
 Simulate multiple draws for the World Cup 2018 group stage. Finding the 
 probability of different teams being in the same group as 'your' team. 
 
-Related webpage: http://seanelvidge.com/2017/11/probabilityWorldCupGroup
+Related webpage: http://seanelvidge.com/2017/12/probabilityWorldCupGroup
 
 Created November 2017
 
@@ -18,7 +18,7 @@ import numpy as np
 sims = 10000
 
 # Which team are you interested in?
-pickedTeam = "England"
+pickedTeam = "Colombia"
 
 # Define some objects to hold the team and group information
 class team():
